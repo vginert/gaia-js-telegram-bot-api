@@ -1,0 +1,40 @@
+{
+  "name": "gaia-js-telegram-bot-api",
+  "description": "Node-telegram-bot-api interface for gaia-js",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vginert/gaia-js-telegram-bot-api.git"
+  },
+  "author": {
+    "name": "Vicente Giner Tendero",
+    "email": "vginert@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vginert/gaia-js-telegram-bot-api/issues"
+  },
+  "homepage": "https://github.com/vginert/gaia-js-telegram-bot-api#readme",
+  "keywords": [
+    "climate",
+    "terrarium",
+    "vivarium",
+    "grow room",
+    "tools",
+    "telegram"
+  ],
+  "files": [
+    "example",
+    "lib",
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.0"
+  }
+}
